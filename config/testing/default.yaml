@@ -1,0 +1,9 @@
+run: stgae
+runs:
+  cvm:                000_cvm
+  lti:                010_lti
+  seq2seq:            020_seq2seq
+  stgae:              030_stgae
+  lanegcn_ae:         040_lanegcn_ae
+eval_ckpt: 
+batch_size: 32

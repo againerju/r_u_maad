@@ -1,0 +1,6 @@
+defaults:
+  - dataset: r_u_maad_train
+  - model: seq2seq  # seq2seq, lanegcn_ae, stgae
+  - training: default
+  - misc: default
+  - experiment: default

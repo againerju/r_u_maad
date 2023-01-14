@@ -1,0 +1,7 @@
+defaults:
+  - dataset: r_u_maad_test
+  - model: stgae
+  - training: default
+  - misc: default
+  - testing: default
+  - experiment: default

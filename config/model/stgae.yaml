@@ -1,0 +1,8 @@
+name: stgae
+use_deltas: False
+num_mods: 1
+num_preds: 16
+embedding_size: 8
+hidden_size: 16
+output_latent: False
+latent_size: 

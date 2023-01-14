@@ -1,0 +1,13 @@
+name: r_u_maad
+seq_len: 16
+train_split: train
+val_split: val
+test_split: test
+preprocess: True
+preprocess_train: processed_train.p
+preprocess_val: processed_val.p
+preprocess_test: processed_test.p
+include_labels: True
+cross_dist: 6
+cross_angle: 1.571
+rot_aug: False

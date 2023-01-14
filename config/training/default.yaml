@@ -1,0 +1,9 @@
+num_epochs: 36
+batch_size: 32
+val_batch_size: 32
+display_iters: 205942
+val_iters: 205942
+save_freq: 1
+opt: adam
+lr: [1e-3, 1e-4]
+lr_epochs: [32]

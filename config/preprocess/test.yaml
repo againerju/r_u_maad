@@ -1,0 +1,7 @@
+set: test
+stride: 1
+n_samples: -1
+n_cpus: 12
+num_scales: 6
+batch_size: 16
+num_workers: 4

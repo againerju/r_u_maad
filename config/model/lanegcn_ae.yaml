@@ -1,0 +1,9 @@
+name: lanegcn_ae
+num_mods: 1
+num_preds: 16
+n_actor: 16
+n_map: 16
+actor2map_dist: 7.0
+map2actor_dist: 6.0
+actor2actor_dist: 100.0
+num_scales: 6
