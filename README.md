@@ -67,7 +67,7 @@ To optain the R-U-MAAD test set (around 3 MB), please send an email to *r.u.maad
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following license statement:
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *With this e-mail I agree that I will use the TCG dataset following the Creative 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *With this e-mail I agree that I will use the R-U-MAAD dataset following the Creative 
 Common Attribution-NonCommercial 4.0 International License.*
 
 We will promptly reply with a download link. Download the `.tar.gz` file and copy it into `/datasets/r_u_maad`.
@@ -188,3 +188,6 @@ If you use our source code, please cite:
   year={2022},
   pages={},}
 ```
+
+## Acknowledgement
+The research leading to these results is funded by the German Federal Ministry for Economic Affairs and Energy within the project “KI Delta Learning" (Förderkennzeichen 19A19013A). The authors would like to thank the consortium for the successful cooperation.
