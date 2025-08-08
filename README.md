@@ -1,7 +1,7 @@
 # A Benchmark for Unsupervised Anomaly Detection in Multi-Agent Trajectories
 This is the official repository including the paper, code, baseline models and the R-U-MAAD dataset. Follow the README to set-up the project or jump to the section of interest with the [Table of Contents](#table-of-contents).
 
-**A Benchmark for Unsupervised Anomaly Detection in Multi-Agent Trajectories**
+**[A Benchmark for Unsupervised Anomaly Detection in Multi-Agent Trajectories](https://arxiv.org/abs/2209.01838) ([IEEE](https://ieeexplore.ieee.org/document/9922440))**
 <br>
 Julian Wiederer, Julian Schmidt, Ulrich Kressel, Klaus Dietmayer and Vasileios Belagiannis
 <br>
